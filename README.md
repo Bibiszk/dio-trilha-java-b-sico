@@ -40,7 +40,7 @@ ContaBanco/
 1. Certifique-se de ter o **Java JDK** instalado (Java 17 ou superior)
 2. Compile o arquivo:
 
-```bash
+
 javac ContaTerminal.java
 Execute o programa:
 
