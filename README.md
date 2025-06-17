@@ -29,3 +29,41 @@ Após o preenchimento, o sistema exibe uma mensagem formatada confirmando a cria
 
 ## 📦 Estrutura do Projeto
 
+ContaBanco/
+├── ContaTerminal.java
+└── README.md
+
+---
+
+## 🧪 Como Executar
+
+1. Certifique-se de ter o **Java JDK** instalado (Java 17 ou superior)
+2. Compile o arquivo:
+
+```bash
+javac ContaTerminal.java
+Execute o programa:
+
+java ContaTerminal
+Siga as instruções no terminal inserindo os dados solicitados.
+
+💡 Exemplo de Saída
+
+Por favor, digite o número da Agência: 067-8
+Por favor, digite o número da Conta: 1021
+Por favor, digite o nome do Cliente: MARIO ANDRADE
+Por favor, digite o saldo inicial: 237.48
+
+Olá Jorge, obrigado por criar uma conta em nosso banco, sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para saque.
+🚀 Tecnologias
+Java 17
+
+VS Code
+
+Terminal / Console
+
+Bootcamp Santander 2025 Java - DIO
+
+🧑‍💻 Autor(a)
+Desenvolvido por Bianca Brito durante os estudos na Digital Innovation One.
+
